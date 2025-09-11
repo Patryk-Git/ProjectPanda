@@ -92,7 +92,7 @@ Do czego służy kompilator C++?
 **XI. Linker**
 
 Do czego służy linker?
-- Służy do łaczenia różnychh plików w jeden plik wykonywalny
+- Służy do łaczenia różnych plików w jeden plik wykonywalny
 
 ---
 
