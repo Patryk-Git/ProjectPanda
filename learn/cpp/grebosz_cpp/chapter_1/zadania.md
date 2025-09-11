@@ -73,7 +73,7 @@ Co to są tzw. białe znaki? Wymień trzy, z którymi do tej pory się spotkali�
 **VIII. Deklaracja nazwy `cout`**
 
 Powiedzieliśmy, że w programie każda nazwa, przed jej użyciem, musi zostać zadeklarowana. W naszych dotychczasowych programach wystąpiła nazwa `cout`. Gdzie była jej deklaracja?
-- W bilbiotece iostream
+- W bibliotece iostream
 ---
 
 **IX. Edytory kodu**
@@ -92,7 +92,7 @@ Do czego służy kompilator C++?
 **XI. Linker**
 
 Do czego służy linker?
-- Służy do łaczenia różnychh plików w jeden plik wykonywalny
+- Służy do łaczenia różnych plików w jeden plik wykonywalny
 
 ---
 
