@@ -41,3 +41,7 @@
 *.dwo
 
 .idea
+.cmake/
+.vscode/
+CMakeFiles/
+build/
